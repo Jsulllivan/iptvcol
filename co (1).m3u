@@ -8,8 +8,8 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="CanalCaracol.co" tvg-name="Canal Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="General",Canal Caracol (432p)
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/c1mdrgsergaerg/index.m3u8
-#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN Latinoamérica" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="Entertainment",AXN Latinoamérica (576p)
-http://209.91.213.10:8088/play/a011
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Entertainment",ESPN HD
+https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/f.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang Latinoamérica" tvg-country="LATAM" tvg-language="Spanish;English" tvg-logo="" group-title="Kids",Boomerang Latinoamérica
 http://209.91.213.10:8088/play/a00m
 #EXTINF:-1 tvg-id="BuenisimaRadioTV.co" tvg-name="Buenísima Radio TV (Gamarra | Cesar)" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/buenisima-radio-tv-4865.jpg" group-title="Local",Buenísima Radio TV (Gamarra | Cesar) (1080p)
