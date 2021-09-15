@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="Animation",Anime Zone TV (480p)
-plugin://plugin.video.f4mTester/?url=https://miap.xyz:443/cZMS0HHpxTG/147_2331.ts&amp;streamtype=TSDOWNLOADER
+https://miap.xyz:443/cZMS0HHpxTG/147_2331.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="Animation",Anime Zone TV (480p)
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Local",RCN (HD)
