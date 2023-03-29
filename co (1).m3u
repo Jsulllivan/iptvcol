@@ -45,7 +45,7 @@ http://209.91.213.10:8088/play/a00k
 #EXTINF:-1 tvg-id="ChavoTV.co" tvg-name="Chavo TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/800px-El_Chavo_%28simple_logo%29.svg.png" group-title="Series",Chavo TV (480p)
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CubaVisionInternacional.cu" tvg-name="CubaVision Internacional" tvg-country="CU;LATAM" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="",CubaVision Internacional (480p)
-http://190.122.96.187:8888/http/010
+https://proxy-04.nyc.dailymotion.com/sec(MuyucYrWgkoHg2i5QVRo5qxgvrxRqbi100lolorg0DUXzVN5G1bvFL-PvNFO49PkgRdMUnly5u6fKSabK7C5lQncW2xM4TEYEVFRlJI__7o)/video/313/194/516491313_mp4_h264_aac_fhd_1.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="Eduvision.co" tvg-name="Eduvision" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/eduvision-2592.jpg" group-title="Education",Eduvision (720p)
